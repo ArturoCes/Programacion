@@ -1,0 +1,11 @@
+package ejemploLambdaStream;
+
+public class Luchador {
+	private String nombre;
+	private double puntosVelocidad;
+	private double puntosHp;
+	private double puntosATK;
+	private double puntosDEF;
+	private double damage;
+	
+}

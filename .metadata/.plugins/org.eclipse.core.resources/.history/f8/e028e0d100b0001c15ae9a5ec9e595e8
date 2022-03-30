@@ -1,0 +1,8 @@
+package ejercicio01;
+
+public class Alumno {
+	
+	//Attributes
+	private String nombre;
+	private String apellidos;
+}
